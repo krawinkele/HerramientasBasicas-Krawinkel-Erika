@@ -3,6 +3,8 @@ Este repositorio contiene un proyecto realizado como parte de un curso de la UTN
 
 ## Descripción
 
+
+
 ## Dataset
 - *Fuente*: Kaggle
 - *Registros*: 10,000
