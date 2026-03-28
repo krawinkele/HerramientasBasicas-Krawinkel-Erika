@@ -1,5 +1,9 @@
-![consumo-redes-sociales-generacion-z (1)](https://github.com/user-attachments/assets/4a210ee9-a107-4458-b1fd-a20792195ba9)# Proyecto Herramientas básicas de Análisis de Datos
+# Proyecto Herramientas básicas de Análisis de Datos
 Este repositorio contiene un proyecto realizado como parte de un curso de la UTN para la certificación en Herramientas Básicas de Análisis de Datos.
+# Bienestar mental y patrones de estilo de vida digital de la Generación Z
+![Uploading consumo-redes-sociales-generacion-z (1).jpg…]()
+
+
 
 ## Descripción
 
