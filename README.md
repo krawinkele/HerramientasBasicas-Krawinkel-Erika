@@ -7,8 +7,8 @@ Este repositorio contiene un proyecto realizado como parte de un curso de la UTN
 
 
 ## Descripción
-
-
+La Generación Z, compuesta por jóvenes nacidos entre mediados de los años 90 y principios de la década de 2010, enfrenta un panorama único en el ámbito de la salud mental. Marcados por una era digital sin precedentes, un entorno social altamente competitivo y eventos globales que han generado incertidumbre, esta generación lidia con desafíos como la ansiedad, la depresión y el estrés en niveles alarmantes.
+La Generación Z representa una generación única, moldeada por un mundo digitalizado, desafíos globales y un entorno social en constante cambio. Sus características los posicionan como agentes clave para el futuro, pero también plantean retos importantes en áreas como la educación, la salud mental y las relaciones interpersonales.
 
 ## Dataset
 - *Fuente*: Kaggle
