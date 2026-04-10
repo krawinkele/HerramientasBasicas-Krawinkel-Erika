@@ -7,9 +7,7 @@ Este repositorio contiene un proyecto realizado como parte de un curso de la UTN
 
 
 ## Descripción
-"La Generación Z, compuesta por jóvenes nacidos entre mediados de los años 90 y principios de la década de 2010, enfrenta un panorama único en el ámbito de la salud mental. Marcados por una era digital sin precedentes, un entorno social altamente competitivo y eventos globales que han generado incertidumbre, esta generación lidia con desafíos como la ansiedad, la depresión y el estrés en niveles alarmantes.
-La Generación Z representa una generación única, moldeada por un mundo digitalizado, desafíos globales y un entorno social en constante cambio. Sus características los posicionan como agentes clave para el futuro, pero también plantean retos importantes en áreas como la educación, la salud mental y las relaciones interpersonales."
-"Se seleccionó este dataset debido a que aborda variables relacionadas con el uso de la tecnología, hábitos digitales y bienestar emocional, lo cual resulta pertinente para el análisis del burnout. Además, se enfoca en comportamientos característicos de la Generación Z, un grupo altamente expuesto al uso de pantallas y redes sociales, lo que permite analizar cómo estos factores influyen en su salud mental."
+Se seleccionó este dataset debido a que aborda variables relacionadas con el uso de la tecnología, hábitos digitales y bienestar emocional, lo cual resulta pertinente para el análisis del burnout. Además, se enfoca en comportamientos característicos de la Generación Z, un grupo altamente expuesto al uso de pantallas y redes sociales, lo que permite analizar cómo estos factores influyen en su salud mental.
 
 ## Dataset
 - *Fuente*: Kaggle
@@ -24,13 +22,13 @@ La Generación Z representa una generación única, moldeada por un mundo digita
 - Power BI
   
 ## Resultado
-Promedio de ansiedad: 4,75
-Promedio de fatiga emocional: 5,58
-Promedio de horas de gaming: 1,61 h/día
-Promedio de horas en pantalla: 7,02 h/día
-% de población con burnout alto: 53,88%
-Mayor nivel de ansiedad y fatiga: rango 2–4 h de gaming
-Tendencia general: A mayor uso digital, mayor malestar emocional
+Promedio de ansiedad: 4,75 / 
+Promedio de fatiga emocional: 5,58 / 
+Promedio de horas de gaming: 1,61 h/día / 
+Promedio de horas en pantalla: 7,02 h/día / 
+% de población con burnout alto: 53,88% / 
+Mayor nivel de ansiedad y fatiga: rango 2–4 h de gaming / 
+Tendencia general: A mayor uso digital, mayor malestar emocional.
 
 ## Autor
 Erika Krawinkel - [LinkedIn] https://www.linkedin.com/in/erika-krawinkel-43012b265/
