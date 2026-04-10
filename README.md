@@ -30,6 +30,10 @@ Promedio de horas en pantalla: 7,02 h/día /
 Mayor nivel de ansiedad y fatiga: rango 2–4 h de gaming / 
 Tendencia general: A mayor uso digital, mayor malestar emocional.
 
+El análisis evidencia un nivel moderado de ansiedad (4,75/10) junto con un alto porcentaje de riesgo de burnout (53,88%), lo que sugiere un contexto general de vulnerabilidad en el bienestar emocional.
+Las redes sociales se destacan como el factor de mayor impacto negativo, mostrando un aumento sostenido en los niveles de ansiedad y fatiga a medida que incrementan las horas de uso. En contraste, el gaming presenta una relación débil, con variaciones leves que tienden a estabilizarse.
+En cuanto a las variables demográficas, edad y género no muestran diferencias significativas en el riesgo de burnout. Por el contrario, los hábitos de estilo de vida (especialmente el sueño) tienen un rol más relevante: **menores horas y peor calidad de descanso se asocian con mayores niveles de burnout.**
+
 ## Autor
 Erika Krawinkel - [LinkedIn] https://www.linkedin.com/in/erika-krawinkel-43012b265/
 
