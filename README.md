@@ -20,7 +20,7 @@ A su vez, los hábitos saludables (especialmente el descanso) cumplen un rol cla
 -  Hábitos digitales: Horas en redes sociales, tiempo total de pantalla, uso nocturno del celular y horas de gaming.
 -  Estilo de vida: Frecuencia de ejercicio, horas de estudio/trabajo.
 -  Indicadores emocionales: Ansiedad, sobrepensamiento, estabilidad del estado de ánimo y fatiga emocional.
--  Bienestar: calidad del sueño, motivación, índice de bienestar y riesgo de burnout.
+-  Bienestar: Calidad del sueño, motivación, índice de bienestar y riesgo de burnout.
 
 ## Tecnologías
 - Python 3.9
